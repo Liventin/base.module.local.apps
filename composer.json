@@ -1,0 +1,13 @@
+{
+  "name": "liventin/base.module.local.apps",
+  "type": "bitrix-d7-module",
+  "description": "Service for create local app in module",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1",
+    "liventin/base.module": "^1.0.0"
+  },
+  "require-dev": {
+    "roave/security-advisories": "dev-latest"
+  }
+}
